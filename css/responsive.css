@@ -7,8 +7,8 @@
 @media only screen and (max-width: 900px)
 body {
   font-size: 85%;
-  #logo h1: width: 35px;
-    #logo h1: height: 35px;
-  #logo h2: 2.2em;
+  #logoh1: width: 35px;
+    #logoh1: height: 35px;
+  #logoh2: 2.2em;
+  #social
 }
-
